@@ -153,4 +153,3 @@ class UnixDaemon(object):
         """
         You should override this method when you subclass Daemon.
         """
-
